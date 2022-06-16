@@ -89,6 +89,6 @@ Electronic Engineer (Universidad Tecnologica Nacional - Argentina). Graduated 20
 - Isabel Acevedo - Manager at TPS SA
 iacevedo@tpssa.com.ar 
 - Federico Coceres - Manager at Banco Galicia (Spanish only)
-fcoceres@galicia.com.ar
+federico.e.coceres@gmail.com
 
 (Please hire me, my current job sucks!)
