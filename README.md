@@ -9,10 +9,14 @@
 
 # About me #
 >"Give me five (minutes | hours | days) and we will get back to you" is the motto! Nobody knows everything right? I do not pretend otherwise, but am always keen to learn and hustle; and get to that deadline with something to show!
-I'm most familiar with the .NET / C# environment, but can also dance around in Java, Kotlin, Python and JS/TS (if I must). I can work alone, but I find I function best as part of a Scrum team. I'm an Electronic Engineer, which means I can program your app and fix your Power Supply (not your Printer, though).
-I am Argentinian, born and raised in La Rioja: a land of wine, olives and really, really awesome software developers. I have been in Germany only since March 2022 so I am still finding my footing here, but lovin' it so far!
-You will see look at my current job and think "Wait, this guy is not a developer!". Please scroll down a little further. There is a story behind that that I will be happy to share in our upcoming interview :).
-Ouside of work, I will not say no to a beer. I play guitar and sing badly with gusto. I am the guy that will come help you paint your house if you ask, but will silently judge you if your PC has too much RGB. 
+>
+>I'm most familiar with the .NET / C# environment, but can also dance around in Java, Kotlin, Python and JS/TS (if I must). I can work alone, but I find I function best as part of a Scrum team. I'm an Electronic Engineer, which means I can program your app and fix your Power Supply (not your Printer, though).
+>
+>I am Argentinian, born and raised in La Rioja: a land of wine, olives and really, really awesome software developers. I have been in Germany only since March 2022 so I am still finding my footing here, but lovin' it so far!
+>
+>You will take a look at my current job and think "Wait, this guy is not a developer!". Please scroll down a little further. There is a story behind that that I will be happy to share in our upcoming interview :).
+>
+>Ouside of work, I will not say no to a beer. I play guitar and sing badly with gusto. I am the guy that will come help you paint your house if you ask, but will also silently judge you if your PC has too much RGB. 
 
 **A note to potential German employers**: I am learning your language, but cannot yet hold a conversation. If this is a no-go, I guess I am not your guy (for now). I am fluent in English and Spanish, though. 
 # Work Experience #
