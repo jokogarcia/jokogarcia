@@ -3,7 +3,7 @@
 ## Software Developer / Electronic Engineer
 <img src="https://irazu.com.ar/images/perfil1.jpeg" alt="Joaquin Garcia Photo" style="width:150px"></img>
 
-📧 jokogarcia@gmail.com |
+📧 joaquin.garciaml@hotmail.com |
 🖁 [+4915739006833](tel://+491601593891) |
 🏠 Merkstraße 12C. 82405 Wessobrunn, Germany |
 🔗 Linkedin: [joaquín-garcía-6876a71b](https://www.linkedin.com/in/joaqu%C3%ADn-garc%C3%ADa-6876a71b) |
