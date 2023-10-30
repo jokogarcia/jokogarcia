@@ -12,12 +12,7 @@ Full legal name: Joaquín García Mercado Luna
 
 # About me
 
-> "Give me five (minutes | hours | days) and we will get back to you" is the motto! Nobody knows everything right? I do not pretend otherwise, but am always keen to learn and hustle; and get to that deadline with something to show!  
-> I'm most familiar with the .NET / C# environment, but can also dance around in Java, Kotlin, Python and JS/TS. I _can_ work alone, but I find I function best as part of a Scrum team. I'm an Electronic Engineer, which means I can program your app and design your next gadget.
-> I waws born and raised in La Rioja, Argentina: a land of wine, olives and really, really awesome software developers. I have been in Germany only since March 2022 so I am still finding my footing here, but loving it so far!  
-> You may see look at my current job and think "Wait, this guy is not a developer!". Please scroll down a little further. There is a story behind why my current position is not software-related. I will be happy to share it in our upcoming interview :).  
-> Outside of work, I will not say no to a beer. I play guitar and sing badly with gusto! I've recently taken up cycling and going to the gym, not so much as a hobby but as a way to work on my health and wellbeing.  
-> **A note to potential German employers**: I am learning your language, but cannot yet hold a conversation. If this is a no-go, I guess I am not your guy (for now). I am fluent in English and Spanish, though.
+> I am an Electronic Engineer with experience in .NET / C#, and JS/TS and, to a lesser degree some non-professional experience in Java, Kotlin and Python. I work well both independently and as part of a Scrum team. I am passionate about learning and always strive to deliver quality work on time. I am fluent in English and Spanish, but still learning German. I look forward to discussing my qualifications further in an upcoming interview
 
 # Work Experience
 
@@ -85,6 +80,10 @@ Design and implementation of RGB light controllers. Digital and analogue. Design
 Maintenance of electrical installations and electronic / medical equipment in Hospital "Enrique Vera Barros"
 # Tertiary Education
 Electronic Engineer (Universidad Tecnologica Nacional - Argentina). Graduated 2015
+ANABIM Info:
+ - Studienrichtung: Ingenieurwesen (Elektronik)
+ - Abschlussklasse: A5
+
 ## Other Coursework
 - SCRUM Certification for Mobile App Developer (Scrum-Institute.org)
 - Git and GitHub Workshop (Universidad Nacional de La Rioja)
@@ -98,9 +97,9 @@ Electronic Engineer (Universidad Tecnologica Nacional - Argentina). Graduated 20
 
 ## Languages
 
-- English: Advanced. Certified level MCER B1 - Trinity College ESOL Level 6 / Level 7 on OpenEnglish
+- English: Advanced. Certified level C1
 - Spanish: Native
-- German: Beginner (pre A1)
+- German: Beginner (coursing A1.2)
 
 ## References
 
