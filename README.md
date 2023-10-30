@@ -12,7 +12,7 @@ Full legal name: Joaquín García Mercado Luna
 
 # About me
 
-> I am an Electronic Engineer with experience in .NET / C#, and JS/TS and, to a lesser degree some non-professional experience in Java, Kotlin and Python. I work well both independently and as part of a Scrum team. I am passionate about learning and always strive to deliver quality work on time. I am fluent in English and Spanish, but still learning German. I look forward to discussing my qualifications further in an upcoming interview
+> I am an Electronic Engineer with experience in .NET / C#, and JS/TS and, to a lesser degree, some non-professional experience in Java, Kotlin and Python. I work well both independently and as part of a Scrum team. I am passionate about learning and always strive to deliver quality work on time. I am fluent in English and Spanish, but still learning German. I look forward to discussing my qualifications further in an upcoming interview
 
 # Work Experience
 
