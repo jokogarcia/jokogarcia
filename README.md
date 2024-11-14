@@ -25,27 +25,7 @@ _January 2024 - present_
 - Migration of the existing codebase into Kubernetes.
 - Design and implement improvements regarding stability, performance and cost reduction.
 - Migration of existing Videocall service to Zoom (embedded zoom client in Edugo's web-app)
-
-### NOC Technician - Anuvu
-
-_May 2016 to March 2018 and again from October 2021 - December 2023_
-
-_\*Since March 2022 in Germany, previously in Argentina (as EMC / Global Eagle)_
-
-Quality and availability assurance of satellite Internet for international maritime customers. Direct communication with customers, providers and third-party vendors, mainly in English.
-Applied Technologies: GEO and LEO (Starlink) Satellite Telecommunications, iDirect Networks, Maritime Antennas (Cobham SeaTel, Sailor and Intellian), SalesForce, MS Office.
-
-## Personal projects
-
-### PingWall
-
-https://github.com/jokogarcia/PingWallMaui | https://www.microsoft.com/store/productId/9PKLSBK6BP6H  
-A simple utility for monitoring the availability of a network connection. It is meant to be used in monitoring screens at Network Operation Centers and the like.
-
-### ValidatableEntry Nuget
-https://www.nuget.org/packages/irazu.com.ar_ValidatableEntry | https://github.com/jokogarcia/ValidatableEntryText  
-An Entry Control for .NET MAUI with added features, including a floating Placeholder and validation features.
-
+  
 ## Previous Experience As Software Developer
 Note: All previous experience was obtained in my home country, **Argentina**.
 
@@ -78,7 +58,27 @@ Design build and maintain the following websites:
 ~~https://www.livery.com.ar~~ (Discontinued)
 Developed food delivery app “Lívery”, for Android and iOS mobile devices, using JAVA (Android Studio) and later migrated to Xamarin Forms for cross platform development. Used PHP and MySQL for backend.
 
+## Personal projects
+
+### PingWall
+
+https://github.com/jokogarcia/PingWallMaui | https://www.microsoft.com/store/productId/9PKLSBK6BP6H  
+A simple utility for monitoring the availability of a network connection. It is meant to be used in monitoring screens at Network Operation Centers and the like.
+
+### ValidatableEntry Nuget
+https://www.nuget.org/packages/irazu.com.ar_ValidatableEntry | https://github.com/jokogarcia/ValidatableEntryText  
+An Entry Control for .NET MAUI with added features, including a floating Placeholder and validation features.
+
+
 ## Other Work Experience
+### NOC Technician - Anuvu
+
+_May 2016 to March 2018 and again from October 2021 - December 2023_
+
+_\*Since March 2022 in Germany, previously in Argentina (as EMC / Global Eagle)_
+
+Quality and availability assurance of satellite Internet for international maritime customers. Direct communication with customers, providers and third-party vendors, mainly in English.
+Applied Technologies: GEO and LEO (Starlink) Satellite Telecommunications, iDirect Networks, Maritime Antennas (Cobham SeaTel, Sailor and Intellian), SalesForce, MS Office.
 
 ### Maintenance Electronic Engineer - ARGAVA S.R.L. (2018 - 2019) Argentina  
 Maintenance of electric installations and electronic / medical equipment in private Hospital "ERI".
