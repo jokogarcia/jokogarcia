@@ -12,15 +12,23 @@ Full legal name: Joaquín García Mercado Luna
 
 # About me
 
-> I am an Electronic Engineer with experience in .NET / C#, and JS/TS and, to a lesser degree, some non-professional experience in Java, Kotlin and Python. I work well both independently and as part of a Scrum team. I am passionate about learning and always strive to deliver quality work on time. I am fluent in English and Spanish, but still learning German. I look forward to discussing my qualifications further in an upcoming interview
+> I am an Electronic Engineer with experience in NodeJS in Server and the Client side, as well as .NET / C# and, to a lesser degree, some non-professional experience in Java, Kotlin and Python. I also have experience in CI/CD using Kubernetes with Docker in Google Cloud Platform. I work well both independently and as part of a Scrum team. I am passionate about learning and always strive to deliver quality work on time. I am fluent in English and Spanish, but still learning German. I look forward to discussing my qualifications further in an upcoming interview
 
 # Work Experience
 
 ## Current Position
+### Senior Backend Engineer - EDUGO AI
+
+_January 2024 - present_
+
+- Develop and deploy the APIs that support the EDUGO project.
+- Migration of the existing codebase into Kubernetes.
+- Design and implement improvements regarding stability, performance and cost reduction.
+- Migration of existing Videocall service to Zoom (embedded zoom client in Edugo's web-app)
 
 ### NOC Technician - Anuvu
 
-_May 2016 to March 2018 and again from October 2021 - Present_
+_May 2016 to March 2018 and again from October 2021 - December 2023_
 
 _\*Since March 2022 in Germany, previously in Argentina (as EMC / Global Eagle)_
 
