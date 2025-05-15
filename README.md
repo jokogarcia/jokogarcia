@@ -1,8 +1,7 @@
 # Joaquin Garcia
 
-![Photo](https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true)
-
 ## Software Developer / Electronic Engineer
+<img src="https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true" alt="Photo" width="150" >
 
 ## Contact information
 - Full legal name: Joaquín García Mercado Luna
