@@ -1,6 +1,6 @@
 # Joaquin Garcia
 
-
+![Photo](https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true)
 
 ## Software Developer / Electronic Engineer
 
@@ -15,7 +15,8 @@
 
 ## About me
 
-> I am an Electronic Engineer and Software Developer with extensive experience in backend development, specializing in NodeJS, .NET/C#, and CI/CD pipelines. I have a strong background in containerization using Docker and orchestration with Kubernetes, including implementing GitOps workflows for automated deployments. My expertise includes designing and deploying scalable, reliable systems in cloud environments such as Google Cloud Platform. I thrive in both independent and Scrum team settings, always striving to deliver high-quality work on time. I am fluent in English and Spanish, and I am currently learning German (coursing A2 Level).
+> I have extensive experience in backend development, specializing in NodeJS, .NET/C#, and CI/CD pipelines. I have a strong background in containerization using Docker and orchestration with Kubernetes, including implementing GitOps workflows for automated deployments. My expertise includes designing and deploying scalable, reliable systems in cloud environments such as Google Cloud Platform. I also have experience with Front-End Web development using React and Cross-Platform mobile apps using .NET MAUI (formerly Xamarin). I thrive in both independent and Scrum team settings, always striving to deliver high-quality work on time. I don't shy away from Documentation and Unit Testing. I am fluent in English and Spanish, and I am currently learning German (coursing A2 Level).
+
 
 ## Work Experience
 
@@ -111,7 +112,7 @@ ANABIM Info:
 
 - English: Advanced. Certified level C1
 - Spanish: Native
-- German: Beginner (coursing A1.2)
+- German: Beginner (coursing A2)
 
 ## References
 
