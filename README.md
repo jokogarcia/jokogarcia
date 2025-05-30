@@ -1,121 +1,121 @@
 # Joaquin Garcia
 
 ## Software Developer / Electronic Engineer
-<img src="https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true" alt="Photo" width="150" >
 
-## Contact information
+## Contact Information
+<img src="https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true" alt="Photo" width="150" style="float:right">
+
 - Full legal name: Joaquín García Mercado Luna
 - Email: jokogarcia@gmail.com
 - Telephone: [+4915739006833](tel://+491601593891)
 - Place of residence: 82405 Wessobrunn, Germany
-- Linkedin: [joaquín-garcía-6876a71b](https://www.linkedin.com/in/joaqu%C3%ADn-garc%C3%ADa-6876a71b) 
-- Github: [jokogarcia](https://github.com/jokogarcia/)
+- LinkedIn: [joaquín-garcía-6876a71b](https://www.linkedin.com/in/joaqu%C3%ADn-garc%C3%ADa-6876a71b)
+- GitHub: [jokogarcia](https://github.com/jokogarcia/)
 
+## About Me
 
-## About me
+> I am an experienced backend developer specializing in Node.js, .NET/C#, and CI/CD pipelines. I have a strong background in containerization with Docker and orchestration using Kubernetes, including implementing GitOps workflows for automated deployments. My expertise includes designing and deploying scalable, reliable systems in cloud environments such as Google Cloud Platform. I also have experience in front-end web development with React and cross-platform mobile apps using .NET MAUI (formerly Xamarin). I thrive both independently and as part of Scrum teams, consistently delivering high-quality work on time. I value documentation and unit testing. I am fluent in English and Spanish, and I am currently taking German courses (A2 Level).
 
-> I have extensive experience in backend development, specializing in NodeJS, .NET/C#, and CI/CD pipelines. I have a strong background in containerization using Docker and orchestration with Kubernetes, including implementing GitOps workflows for automated deployments. My expertise includes designing and deploying scalable, reliable systems in cloud environments such as Google Cloud Platform. I also have experience with Front-End Web development using React and Cross-Platform mobile apps using .NET MAUI (formerly Xamarin). I thrive in both independent and Scrum team settings, always striving to deliver high-quality work on time. I don't shy away from Documentation and Unit Testing. I am fluent in English and Spanish, and I am currently learning German (coursing A2 Level).
-
-
-## Work Experience
+## Work Experience as Software Developer
 
 ### Current Position
-#### Senior Backend Engineer - EDUGO AI
+#### Senior Backend Engineer – EDUGO AI ([edugo.ai](https://edugo.ai))
+_January 2024 – Present_
 
-_January 2024 - present_
+> Tech stack: TypeScript, Node.js, Jest, Docker, Kubernetes, PostgreSQL, MongoDB, Redis, GitHub Actions, Git, React.js, Zoom Web SDK
 
-As a Senior Backend Engineer at EDUGO AI, I led the migration of the backend from a monolithic architecture deployed on a standalone VPS to a microservices-based design orchestrated with Kubernetes. I personally implemented an automated CI/CD pipeline using GitOps principles, replacing the previously manual deployment process. Additionally, I improved system stability, performance, and cost efficiency, and led the migration of the Videocall service from an in-house soultion using Agora to an embedded Zoom client within the web-app.
-  
-### Previous Experience As Software Developer
-Note: All previous experience was obtained in my home country, **Argentina**.
+- Improved stability and performance by migrating from a monolith running on bare metal to a microservices-based architecture orchestrated with Kubernetes.
+- Enhanced data security by implementing recommendations from an independent security audit.
+- Increased developer productivity by implementing CI/CD pipelines for backend and frontend deployments using GitHub Actions and ArgoCD.
+- Improved availability and stability of in-platform video calls by migrating to an embedded Zoom client, including porting custom functionality not natively supported by Zoom. Took on a full-stack role for this project.
+- Increased code quality and reliability by advocating for and implementing unit testing for the backend, including automating test runs in CI/CD pipelines.
+- Led efforts to establish and document best practices and code style guides for internal use.
+- Conducted stress and load tests on the backend to ensure readiness for increased user demand, identifying and addressing bottlenecks.
+- Served as Point of Contact to one of two Key Customers.
 
-#### .NET Developer - Accenture
+_Note: All experience prior to 2022 was obtained in my home country, **Argentina**._
 
-_April to September 2021_
-Assigned to customer **Banco Galicia** (https://www.bancogalicia.com)  
-Part of Squad _Robustez y Disponibilidad_ (Robustness and Availability).  
-Worked on feature _Adaptive View_ on Enterprise e-Bank portal. This feature cuts down development time of new products, by eliminating the need for frontend re-design (ask me about it :).  
-Technologies used: .Net Framework 4.1, ASP.NET, GIT.  
+#### .NET Developer – Accenture ([accenture.com](https://accenture.com))
+_April – September 2021_
 
-#### Semi-Senior Software Developer - TPS S.A.
-_Oct 2019 to April 2021_ https://www.tpssa.com.ar  
-Worked primarily in projects for customer Intermex (https://www.intermexonline.com), creating mobile apps with Xamarin Forms, backend services with .NET Core and SQL Server, web applications with Angular and desktop apps with WPF.  
-Applied Technologies: IdentityServer, Xamarin Forms, Xamarin.UI Test, Azure Notification Hub, Prism.DryIOC, Angular, xunit, Azure DevOps, CI/CD with Azure DevOps, Azure App Service, IIS, GIT
+> Tech stack: .NET Framework 4.1, ASP.NET, Git
 
-#### Web developer - Freelance (2010-present)
+- Assigned to customer **Banco Galicia** ([bancogalicia.com](https://www.bancogalicia.com))
+- Developed the "Adaptive View" feature for the enterprise e-bank portal, reducing development time for new products by eliminating the need for frontend redesign.
 
-Design build and maintain the following websites:
+#### Semi-Senior Software Developer – TPS S.A. ([tpssa.com.ar](https://www.tpssa.com.ar))
+_October 2019 – April 2021_
 
-- https://www.asociacionanestesiologicariojana.com
-- ~~- https://www.novaclean.com.ar~~ (discontinued)  
-  Applied technologies, PHP, HTML5, Javascript, CSS, MySQL and Wordpress
-- https://www.bibliotecamarianomoreno.org  
-  Applied technologies: Azure App Service, Angular, Apache, Sqlite, Azure DevOps CI/CD.  
-  \*Website is currently undergoing a full refactor, migrating from Wordpress to Angular (Feb 2021)
+> Tech stack: .NET Core 3, Xamarin Forms, Xamarin.UI Test, Prism.DryIOC, xUnit, SQL Server, Azure Notification Hub, Azure DevOps, IIS, Git, IdentityServer, Angular
 
-#### Mobile app developer - Grupo Lívery (Nov. 2017- 2019)
+- Worked primarily on projects for Intermex ([intermexonline.com](https://www.intermexonline.com)), developing mobile apps with Xamarin Forms, backend services with .NET Core and SQL Server, web applications with Angular, and desktop apps with WPF.
 
-~~https://www.livery.com.ar~~ (Discontinued)
-Developed food delivery app “Lívery”, for Android and iOS mobile devices, using JAVA (Android Studio) and later migrated to Xamarin Forms for cross platform development. Used PHP and MySQL for backend.
+#### Embedded Systems Designer – Quanta Iluminación
+_2013 – April 2016_
 
-### Personal projects
+> Tech stack: C (Microchip XC8 and C18), Python, Tkinter. Additional skills: Power electronics design and manufacturing
+
+- Designed and implemented digital and analog RGB light controllers.
+- Developed GUIs for RGB controllers.
+
+### Personal Projects
 
 #### PingWall
 
-https://github.com/jokogarcia/PingWallMaui | https://www.microsoft.com/store/productId/9PKLSBK6BP6H  
-A simple utility for monitoring the availability of a network connection. It is meant to be used in monitoring screens at Network Operation Centers and the like.
+[GitHub](https://github.com/jokogarcia/PingWallMaui) | [Microsoft Store](https://www.microsoft.com/store/productId/9PKLSBK6BP6H)
+A utility for monitoring network connection availability, intended for use on monitoring screens in Network Operation Centers and similar environments.
 
-#### ValidatableEntry Nuget
-https://www.nuget.org/packages/irazu.com.ar_ValidatableEntry | https://github.com/jokogarcia/ValidatableEntryText  
-An Entry Control for .NET MAUI with added features, including a floating Placeholder and validation features.
+#### ValidatableEntry NuGet
+[NuGet](https://www.nuget.org/packages/irazu.com.ar_ValidatableEntry) | [GitHub](https://github.com/jokogarcia/ValidatableEntryText)
+A .NET MAUI Entry control with enhanced features, including a floating placeholder and validation capabilities.
 
+## Other Work Experience
 
-### Other Work Experience
-#### NOC Technician - Anuvu
+#### NOC Technician – Anuvu
+_May 2016 – March 2018 and October 2021 – December 2023_
 
-_May 2016 to March 2018 and again from October 2021 - December 2023_
+- Ensured quality and availability of satellite internet and TV for international maritime customers.
+- Maintained direct communication with customers, providers, and third-party vendors, primarily in English.
 
-_\*Since March 2022 in Germany, previously in Argentina (as EMC / Global Eagle)_
+#### Maintenance Electronic Engineer – ARGAVA S.R.L.
+_2018 – 2019_
 
-Quality and availability assurance of satellite Internet for international maritime customers. Direct communication with customers, providers and third-party vendors, mainly in English.
-Applied Technologies: GEO and LEO (Starlink) Satellite Telecommunications, iDirect Networks, Maritime Antennas (Cobham SeaTel, Sailor and Intellian), SalesForce, MS Office.
+- Maintained electrical installations and electronic/medical equipment at Hospital "ERI".
 
-#### Maintenance Electronic Engineer - ARGAVA S.R.L. (2018 - 2019) Argentina  
-Maintenance of electric installations and electronic / medical equipment in private Hospital "ERI".
+#### Intern – GEMLaR
+_2010 – 2013_
 
-#### I+D+i technician - Quanta Iluminación (2013 - 2016)
-Design and implementation of RGB light controllers. Digital and analogue. Design of GUI for RGB controllers. Applied technologies: PIC Microcontrollers, C (Microchip XC8), Python, TK Inter, Proteus CAD suite.
+- Maintained electrical installations and electronic/medical equipment at Hospital "Enrique Vera Barros".
 
-#### Intern - GEMLaR (2010 - 2013)
-Maintenance of electrical installations and electronic / medical equipment in Hospital "Enrique Vera Barros"
+## Education
+### Bachelor's Degree in Electronics Engineering
 
-## Tertiary Education
-### Electronic Engineer (Universidad Tecnologica Nacional - Argentina). Graduated 2015
-ANABIM Info:
- - Studienrichtung: Ingenieurwesen (Elektronik)
- - Abschlussklasse: A5
+Universidad Tecnológica Nacional (UTN), Argentina
 
-## Other Coursework
+_December 2015_
+
+> ANABIM Info:
+> - Studienrichtung: Ingenieurwesen (Elektronik)
+> - Abschlussklasse: A5
+
+### Additional Coursework
 - SCRUM Certification for Mobile App Developer (Scrum-Institute.org)
 - Git and GitHub Workshop (Universidad Nacional de La Rioja)
-- Advanced React.JS (Educacion IT)
+- Advanced React.js (Educacion IT)
 - Udemy.com:
   - The Complete JAVA and Android Developer Course
   - Aprende Xamarin Forms para Desarrollar Apps Multiplataforma
   - Xamarin Forms y Azure. Tu información siempre en línea
   - Getting Started With .NetCore IdentityServer 4
   - Angular (Full App) with Angular Material, Angularfire & NgRx
-  - React.JS Avanzado 
+  - React.js Avanzado
 
 ## Languages
 
-- English: Advanced. Certified level C1
+- English: Advanced (certified level C1)
 - Spanish: Native
-- German: Beginner (coursing A2)
+- German: Beginner (currently taking A2)
 
 ## References
 
-- Paul Williams. Product Manager at Edugo.ai
-  pwilliamsjr@gmail.com
-- Franco Vargas. CTO at Edugo.ai
-  vargasfrancoivan@hotmail.com
+Available on request.
