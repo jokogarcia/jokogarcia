@@ -48,15 +48,19 @@ _October 2019 – April 2021_
 
 > Tech stack: .NET Core 3, Xamarin Forms, Xamarin.UI Test, Prism.DryIOC, xUnit, SQL Server, Azure Notification Hub, Azure DevOps, IIS, Git, IdentityServer, Angular
 
-- Worked primarily on projects for Intermex ([intermexonline.com](https://www.intermexonline.com)), developing mobile apps with Xamarin Forms, backend services with .NET Core and SQL Server, web applications with Angular, and desktop apps with WPF.
+- Created Application Cross-Platform application for loyalty points tracking "Interpuntos" for customer Intermex ([intermexonline.com](https://www.intermexonline.com)).
+  - Succesfully integrated with the client's backend based on SQL Server Stored Procedures and with their Auth Service based on IdentityServer 4.
+- Migrated the Frontend of the Internal Tool CheckDirect (for the same custommer) from a Delphi-based Windows Application to an Angular-based Web Application.
 
 #### Embedded Systems Designer – Quanta Iluminación
 _2013 – April 2016_
 
 > Tech stack: C (Microchip XC8 and C18), Python, Tkinter. Additional skills: Power electronics design and manufacturing
 
-- Designed and implemented digital and analog RGB light controllers.
-- Developed GUIs for RGB controllers.
+- Designed and implemented a variety of digital and analog RGB light controllers for LED lights.
+- Created a robust communication protocol for synchronizing and addressing individual Lamps, supporting Wireless, Wired and Hybrid networks.
+- Implemented DMX512-compatible light controllers.
+- Developed a GUI for programming and live control of RGB lights
 
 ### Personal Projects
 
