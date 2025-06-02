@@ -44,7 +44,7 @@ export interface LanguageSkill{
     level: string;
 }
 export const mockCV: CV = {
-  name: "Joaquín García",
+  name: "Bla bla García",
   title: "Senior Software Developer",
   workExperienceTitle: "WORK EXPERIENCE",
   educationTitle: "EDUCATION",

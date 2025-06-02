@@ -11,6 +11,18 @@ function App() {
         document.body.classList.add('printable');
     }
     let orderedSkills = cv.skills.sort((a, b) => a.localeCompare(b));
+    React.useEffect(()=>{
+        //fetch the CV data from cv-1.json
+        fetch('/cv-1.json')
+            .then(response => response.json())
+            .then(data => {
+                setCv(data);
+            })
+            .catch(error => {
+                console.error('Error fetching CV data:', error);
+            });
+
+    },[])
     React.useEffect(() => {
         orderedSkills = cv.skills.sort((a, b) => a.localeCompare(b));
         document.title = `${cv.name} - CV`;
