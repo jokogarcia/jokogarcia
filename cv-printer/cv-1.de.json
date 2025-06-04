@@ -1,0 +1,139 @@
+{
+  "name": "Joaquín García",
+  "title": "Senior Software Entwickler",
+  "workExperienceTitle": "BERUFSERFAHRUNG",
+  "educationTitle": "AUSBILDUNG",
+  "summaryTitle": "BERUFLICHES PROFIL",
+  "skillsTitle": "TECHNISCHE FÄHIGKEITEN",
+  "languageSkillsTitle": "SPRACHKENNTNISSE",
+  "summary": "Erfahrener Softwareentwickler mit über 8 Jahren Erfahrung in der Full-Stack-Entwicklung und DevOps. Spezialisiert auf Node.JS mit Typescript und .Net mit C#. Leidenschaftlich daran interessiert, effiziente, skalierbare und benutzerfreundliche Anwendungen zu erstellen.",
+  "profilePictureUrl": "https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true",
+  "contactInfo": {
+    "email": "joaquin.garciaml@hotmail.com",
+    "phone": "+491573906833",
+    "address": "Merkststraße 12C. 82405 Wessobrunn, Deutschland",
+    "dateOfBirth": "1983-07-29",
+    "linkedin": "www.linkedin.com/in/joaquin-garcia-ml",
+    "github": "www.github.com/jokogarcia",
+    "website": ""
+  },
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional (UTN)",
+      "degree": "Bachelor-Abschluss in Elektronikingenieurwesen",
+      "startDate": "2002-03",
+      "endDate": "2015-12",
+      "description": "ANABIM-Äquivalenz: 'Studienrichtung: Ingenieurwesen (Elektronik). Abschlussklasse: A5'",
+      "location": "La Rioja, Argentinien"
+    },
+    {
+      "institution": "Colegio Provincial Número 1 'Joaquín V. González'",
+      "degree": "Abitur mit Schwerpunkt Physik und Mathematik",
+      "startDate": "2000-03",
+      "endDate": "2001-12",
+      "description": "Mit Auszeichnung abgeschlossen. Nebenfach Physik und Mathematik.",
+      "location": "La Rioja, Argentinien"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Edugo.AI",
+      "position": "Senior Backend Entwickler",
+      "startDate": "2024-01",
+      "endDate": "Gegenwart",
+      "achievements": [
+        "Verbesserte Stabilität durch Migration von einer Monolith- zu einer Microservices-Architektur, orchestriert mit Kubernetes.",
+        "Erhöhte Datensicherheit durch Umsetzung von Empfehlungen eines unabhängigen Sicherheitsaudits.",
+        "Steigerung der Entwicklerproduktivität durch Implementierung von CI/CD-Pipelines.",
+        "Verbesserte Verfügbarkeit und Stabilität von Videoanrufen in der Plattform.",
+        "Entwicklung einer eigenen Multi-User-Funktion für die Live-Annotierung von PDF-Dokumenten während Videoanrufen.",
+        "Erhöhte Codequalität und Zuverlässigkeit durch Förderung und Implementierung von Unit-Tests.",
+        "Leitung der Entwicklung und Dokumentation von Best Practices und Code-Style-Guides für den internen Gebrauch.",
+        "Durchführung von Stresstests und Lasttests des Backends zur Sicherstellung der Skalierbarkeit und Identifikation von Engpässen.",
+        "Ansprechpartner für Schlüsselkunden."
+      ],
+      "description": "Alleiniger Backend-Spezialist in einem Team von 5 Personen, mit Fokus auf die Entwicklung KI-gestützter Bildungsplattformen."
+    },
+    {
+      "company": "Accenture",
+      "position": ".NET Developer",
+      "startDate": "2021-04",
+      "endDate": "2021-09",
+      "achievements": [
+        "Entwicklung der Funktion 'Adaptive View', wodurch die Entwicklungszeit für neue Features reduziert wurde, da keine neuen Ansichten mehr erstellt werden mussten."
+      ],
+      "description": "Einsatz beim Kunden Banco Galicia (https://www.bancogalicia.com.ar/), Arbeit am E-Banking-Portal für Unternehmen."
+    },
+    {
+      "company": "TPS S.A.",
+      "position": "Software Developer (Semi-Senior)",
+      "startDate": "2019-10",
+      "endDate": "2021-04",
+      "description": "Beginn als Junior Mobile Developer, später Full Stack und Ansprechpartner für Kunden.",
+      "achievements": [
+        "Entwicklung einer plattformübergreifenden Anwendung zur Nachverfolgung von Treuepunkten ('Interpuntos') für den Kunden Intermex (intermexonline.com).",
+        "Erfolgreiche Integration mit dem Backend des Kunden auf Basis von SQL Server Stored Procedures und deren Authentifizierungsdienst auf Basis von IdentityServer 4.",
+        "Migration des Frontends des internen Tools 'CheckDirect' (für denselben Kunden) von einer Delphi-basierten Windows-Anwendung zu einer Angular-basierten Webanwendung."
+      ]
+    },
+    {
+      "company": "Quanta Iluminación",
+      "position": "Embedded Systems Designer",
+      "startDate": "2013-01",
+      "endDate": "2016-04",
+      "description": "Entwicklung von Leistungselektronik und Embedded Software für LED-Beleuchtungssysteme.",
+      "achievements": [
+        "Entwurf und Implementierung verschiedener digitaler und analoger RGB-Lichtsteuerungen für LED-Leuchten.",
+        "Entwicklung eines robusten Kommunikationsprotokolls zur Synchronisierung und Adressierung einzelner Lampen, unterstützt drahtlose, kabelgebundene und hybride Netzwerke.",
+        "Implementierung von DMX512-kompatiblen Lichtsteuerungen.",
+        "Entwicklung von GUIs zur Programmierung und Live-Steuerung von RGB-Leuchten."
+      ]
+    }
+  ],
+  "skills": [
+    ".Net",
+    ".Net MAUI",
+    "Agile/Scrum",
+    "ArgoCD",
+    "C",
+    "C#",
+    "CI/CD",
+    "Docker",
+    "Git",
+    "Github Actions",
+    "Go",
+    "Google Cloud Platform",
+    "JavaScript",
+    "Jira",
+    "Kubernetes",
+    "MongoDB",
+    "Node.js",
+    "Performance-Optimierung",
+    "PostgreSQL",
+    "Python",
+    "React",
+    "RESTful APIs",
+    "SQL Server",
+    "SQLite",
+    "Systemarchitektur",
+    "Tkinter",
+    "TypeScript",
+    "Unit Testing",
+    "Xamarin",
+    "Zoom SDK"
+  ],
+  "languageSkills": [
+    {
+      "language": "Spanisch",
+      "level": "Muttersprache"
+    },
+    {
+      "language": "Englisch",
+      "level": "C2"
+    },
+    {
+      "language": "Deutsch",
+      "level": "A2 (laufend)"
+    }
+  ]
+}
