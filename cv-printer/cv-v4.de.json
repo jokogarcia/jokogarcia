@@ -1,0 +1,161 @@
+{
+  "name": "Joaquín García",
+  "title": "Senior Softwareentwickler",
+  "workExperienceTitle": "BERUFSERFAHRUNG",
+  "educationTitle": "AUSBILDUNG",
+  "summaryTitle": "BERUFLICHES PROFIL",
+  "skillsTitle": "TECHNISCHE FÄHIGKEITEN",
+  "languageSkillsTitle": "SPRACHKENNTNISSE",
+  "summary": "Hochgradig anpassungsfähiger und ergebnisorientierter Senior Softwareentwickler mit über 8 Jahren Erfahrung in schnelllebigen, agilen Umgebungen. Nachgewiesene Fähigkeit, effiziente, skalierbare und benutzerfreundliche Anwendungen durch Expertise in Full-Stack-Entwicklung, DevOps und Engagement für kontinuierliche Verbesserung zu liefern. Spezialisierung auf Node.JS mit Typescript und .Net mit C#.",
+  "profilePictureUrl": "https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true",
+  "contactInfo": {
+    "email": "joaquin.garciaml@hotmail.com",
+    "phone": "+491573906833",
+    "address": "Merkststraße 12C. 82405 Wessobrunn, Deutschland",
+    "linkedin": "www.linkedin.com/in/joaquin-garcia-ml",
+    "github": "www.github.com/jokogarcia",
+    "dateOfBirth": "1983-07-29",
+    "website": ""
+  },
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional (UTN)",
+      "degree": "Elektronikingenieur (<i>Ingeniero en Electrónica</i>)",
+      "startDate": "2002-03",
+      "endDate": "2015-12",
+      "description": "ANABIM-Äquivalenz: 'Studienrichtung: Ingenieurwesen (Elektronik). Abschlussklasse: A5'",
+      "location": "La Rioja, Argentinien"
+    },
+    {
+      "institution": "Colegio Provincial Número 1 'Joaquín V. González'",
+      "degree": "Abitur mit Schwerpunkt Physik und Mathematik",
+      "startDate": "2000-03",
+      "endDate": "2001-12",
+      "description": "Mit Auszeichnung abgeschlossen. Nebenfach Physik und Mathematik.",
+      "location": "La Rioja, Argentinien"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Edugo.AI",
+      "position": "Senior Backend-Entwickler",
+      "startDate": "2024-01",
+      "location": "Wessobrunn, Deutschland (remote)",
+      "endDate": "2025-07",
+      "achievements": [
+        "Stabilität verbessert durch Migration von einer Monolith- zu einer Microservices-Architektur, orchestriert mit Kubernetes, was schnellere Iterations- und Bereitstellungszyklen ermöglichte.",
+        "Datensicherheit erhöht durch Umsetzung von Empfehlungen eines unabhängigen Sicherheitsaudits.",
+        "Entwicklerproduktivität gesteigert durch Implementierung von CI/CD-Pipelines, wodurch die Bereitstellung neuer Funktionen deutlich beschleunigt wurde.",
+        "Verfügbarkeit und Stabilität von Videokonferenzen in der Plattform verbessert.",
+        "Entwicklung einer eigenen Multi-User-Funktion für das Live-Annotieren von PDF-Dokumenten während Videokonferenzen, was eine schnelle Feature-Entwicklung demonstrierte.",
+        "Codequalität und Zuverlässigkeit durch Förderung und Implementierung von Unit-Tests erhöht, wodurch eine Kultur der Qualitätssicherung geschaffen wurde.",
+        "Führende Rolle bei der Etablierung und Dokumentation von Best Practices und Code-Style-Guides für den internen Gebrauch, was zur Effizienz und Wartbarkeit des Teams beitrug.",
+        "Durchführung von Stresstests und Lasttests am Backend zur Sicherstellung der Bereitschaft für erhöhte Nutzerzahlen, proaktive Identifizierung und Behebung von Engpässen."
+      ],
+      "description": "Alleiniger Backend-Spezialist in einem dynamischen, schnelllebigen Team von 5, mit Fokus auf die Entwicklung KI-gestützter Bildungsplattformen. Stets hochwertige Lösungen unter herausfordernden Fristen geliefert."
+    },
+    {
+      "company": "Anuvu",
+      "position": "NOC-Techniker",
+      "startDate": "2021-10*",
+      "endDate": "2023-12",
+      "location": "Raisting, Deutschland",
+      "achievements": [
+        "Erste und zweite Supportebene für internationale maritime Kunden, Sicherstellung von hochwertigem Service und schneller Problemlösung in einer kritischen Echtzeitumgebung.",
+        "Hohe Kundenzufriedenheit durch effektive Kommunikation mit Kunden und Drittanbietern aufrechterhalten.",
+        "Unterstützung von Field Engineers zur Gewährleistung reibungsloser Abläufe und schneller Problemlösung, oft unter Zeitdruck.",
+        "Hoher Dokumentationsgrad und Wissensaustausch über einen vielfältigen technischen Stack, Beitrag zur Effizienz und zum Wissenstransfer im Team in einem sich schnell entwickelnden Bereich."
+      ],
+      "description": "<i>*Hinweis: <b>Auch von 2016 bis 2018 in Argentinien.</b></i> Technischer Support für maritime Satellitenkommunikationssysteme. Echtzeit-Fehlerbehebung komplexer technischer Lösungen in einer schnelllebigen Umgebung."
+    },
+    {
+      "company": "Accenture",
+      "position": ".NET-Entwickler",
+      "startDate": "2021-04",
+      "endDate": "2021-09",
+      "location": "La Rioja, Argentinien (remote)",
+      "achievements": [
+        "Entwicklung der Funktion 'Adaptive View', wodurch die Entwicklungszeit für neue Features reduziert wurde, da keine neuen Ansichten mehr für jedes Feature erstellt werden mussten."
+      ],
+      "description": "Eingesetzt beim Kunden Banco Galicia (https://www.bancogalicia.com.ar/), Arbeit am E-Banking-Portal für Unternehmen."
+    },
+    {
+      "company": "TPS S.A.",
+      "position": "Softwareentwickler (Semi-Senior)",
+      "startDate": "2019-10",
+      "endDate": "2021-04",
+      "location": "La Rioja, Argentinien (remote)",
+      "description": "Begann als Junior Mobile Developer und entwickelte sich zu einer Senior Full Stack Position und Kundenansprechpartner.",
+      "achievements": [
+        "Entwicklung einer plattformübergreifenden mobilen Anwendung zur Nachverfolgung von Treuepunkten ('Interpuntos') für den Kunden Intermex (intermexonline.com).",
+        "Erfolgreiche Integration mit dem Backend des Kunden auf Basis von SQL Server Stored Procedures und deren Auth-Service auf Basis von IdentityServer 4.",
+        "Migration des Frontends des internen Tools 'CheckDirect' (für denselben Kunden) von einer Delphi-basierten Windows-Anwendung zu einer Angular-basierten Webanwendung."
+      ]
+    },
+    {
+      "company": "Quanta Iluminación",
+      "position": "Entwickler für eingebettete Systeme",
+      "startDate": "2013-01",
+      "endDate": "2016-04",
+      "location": "La Rioja, Argentinien",
+      "description": "Leistungselektronik-Design und Entwicklung von Embedded Software für LED-Beleuchtungssysteme.",
+      "achievements": [
+        "Entwurf und Implementierung verschiedener digitaler und analoger RGB-Lichtsteuerungen für LED-Leuchten.",
+        "Entwicklung eines robusten Kommunikationsprotokolls zur Synchronisierung und Adressierung einzelner Lampen, Unterstützung von drahtlosen, kabelgebundenen und hybriden Netzwerken.",
+        "Implementierung von DMX512-kompatiblen Lichtsteuerungen.",
+        "Entwicklung von GUIs zur Programmierung und Live-Steuerung von RGB-Leuchten."
+      ]
+    }
+  ],
+  "skills": [
+    ".Net",
+    ".Net MAUI",
+    "Agile/Scrum",
+    "ArgoCD",
+    "C",
+    "C#",
+    "CI/CD",
+    "Docker",
+    "Git",
+    "Github Actions",
+    "Go",
+    "Google Cloud Platform",
+    "JavaScript",
+    "Kubernetes",
+    "MongoDB",
+    "Node.JS",
+    "Performance-Optimierung",
+    "PostgreSQL",
+    "Python",
+    "React",
+    "RESTful APIs",
+    "SQL Server",
+    "SQLite",
+    "TypeScript",
+    "Unit Testing",
+    "Xamarin",
+    "Zoom SDK",
+    "Schnelles Prototyping",
+    "Problemlösung"
+  ],
+  "languageSkills": [
+    {
+      "language": "Spanisch",
+      "level": "Muttersprache"
+    },
+    {
+      "language": "Englisch",
+      "level": "C2"
+    },
+    {
+      "language": "Deutsch",
+      "level": "A2 in Ausbildung"
+    }
+  ],
+  "professionalAttributes": [
+    "Anpassungsfähigkeit & Agilität: Gedeiht in schnelllebigen, sich entwickelnden Umgebungen und passt sich schnell neuen Technologien und Anforderungen an.",
+    "Proaktiver Problemlöser: Erkennt und adressiert Herausforderungen eigenständig, sorgt für minimale Störungen und kontinuierliche Verbesserung.",
+    "Teamarbeit & Führung: Trägt aktiv zum Teamerfolg bei, betreut Kollegen und übernimmt Initiative über die definierten Rollen hinaus, um gemeinsame Ziele zu erreichen.",
+    "Hohe Verfügbarkeit & Engagement: Nachgewiesene Bereitschaft, das Extra zu leisten, um Teamziele und kritische Abläufe zu unterstützen."
+  ]
+}

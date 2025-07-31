@@ -1,12 +1,12 @@
 {
   "name": "Joaquín García",
-  "title": "Senior Software Entwickler",
+  "title": "Senior Softwareentwickler",
   "workExperienceTitle": "BERUFSERFAHRUNG",
   "educationTitle": "AUSBILDUNG",
   "summaryTitle": "BERUFLICHES PROFIL",
   "skillsTitle": "TECHNISCHE FÄHIGKEITEN",
   "languageSkillsTitle": "SPRACHKENNTNISSE",
-  "summary": "Erfahrener Softwareentwickler mit über 8 Jahren Erfahrung in der Full-Stack-Entwicklung und DevOps. Spezialisiert auf Node.JS mit Typescript und .Net mit C#. Leidenschaftlich daran interessiert, effiziente, skalierbare und benutzerfreundliche Anwendungen zu erstellen.",
+  "summary": "Erfahrener Softwareentwickler mit über 8 Jahren Erfahrung in Full-Stack-Entwicklung und DevOps. Spezialisiert auf Node.JS mit Typescript und .Net mit C#. Leidenschaftlich daran interessiert, effiziente, skalierbare und benutzerfreundliche Anwendungen zu erstellen.",
   "profilePictureUrl": "https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true",
   "contactInfo": {
     "email": "joaquin.garciaml@hotmail.com",
@@ -20,7 +20,7 @@
   "education": [
     {
       "institution": "Universidad Tecnológica Nacional (UTN)",
-      "degree": "Bachelor-Abschluss in Elektronikingenieurwesen",
+      "degree": "Elektronikingenieur (<i>Ingeniero en Electrónica</i>)",
       "startDate": "2002-03",
       "endDate": "2015-12",
       "description": "ANABIM-Äquivalenz: 'Studienrichtung: Ingenieurwesen (Elektronik). Abschlussklasse: A5'",
@@ -38,19 +38,20 @@
   "workExperience": [
     {
       "company": "Edugo.AI",
-      "position": "Senior Backend Entwickler",
+      "position": "Senior Backend-Entwickler",
       "startDate": "2024-01",
-      "endDate": "Gegenwart",
+      "endDate": "2025-07",
       "achievements": [
-        "Verbesserte Stabilität durch Migration von einer Monolith- zu einer Microservices-Architektur, orchestriert mit Kubernetes.",
-        "Erhöhte Datensicherheit durch Umsetzung von Empfehlungen eines unabhängigen Sicherheitsaudits.",
-        "Steigerung der Entwicklerproduktivität durch Implementierung von CI/CD-Pipelines.",
-        "Verbesserte Verfügbarkeit und Stabilität von Videoanrufen in der Plattform.",
-        "Entwicklung einer eigenen Multi-User-Funktion für die Live-Annotierung von PDF-Dokumenten während Videoanrufen.",
-        "Erhöhte Codequalität und Zuverlässigkeit durch Förderung und Implementierung von Unit-Tests.",
-        "Leitung der Entwicklung und Dokumentation von Best Practices und Code-Style-Guides für den internen Gebrauch.",
-        "Durchführung von Stresstests und Lasttests des Backends zur Sicherstellung der Skalierbarkeit und Identifikation von Engpässen."      ],
-      "description": "Alleiniger Backend-Spezialist in einem Team von 5 Personen, mit Fokus auf die Entwicklung KI-gestützter Bildungsplattformen."
+        "Stabilität verbessert durch Migration von einer Monolith- zu einer Microservices-Architektur, orchestriert mit Kubernetes.",
+        "Datensicherheit erhöht durch Umsetzung von Empfehlungen eines unabhängigen Sicherheitsaudits.",
+        "Entwicklerproduktivität gesteigert durch Implementierung von CI/CD-Pipelines.",
+        "Verfügbarkeit und Stabilität von Videokonferenzen in der Plattform verbessert.",
+        "Codequalität und Zuverlässigkeit durch Förderung und Implementierung von Unit-Tests erhöht.",
+        "Führende Rolle bei der Etablierung und Dokumentation von Best Practices und Code-Style-Guides für den internen Gebrauch.",
+        "Durchführung von Stresstests und Lasttests am Backend zur Sicherstellung der Bereitschaft für erhöhte Nutzerzahlen, Identifizierung und Behebung von Engpässen.",
+        "Ansprechpartner für Schlüsselkunden."
+      ],
+      "description": "Alleiniger Backend-Spezialist in einem Team von 5, mit Fokus auf die Entwicklung KI-gestützter Bildungsplattformen."
     },
     {
       "company": "Anuvu",
@@ -67,35 +68,35 @@
     },
     {
       "company": "Accenture",
-      "position": ".NET Developer",
+      "position": ".NET-Entwickler",
       "startDate": "2021-04",
       "endDate": "2021-09",
       "achievements": [
-        "Entwicklung der Funktion 'Adaptive View', wodurch die Entwicklungszeit für neue Features reduziert wurde, da keine neuen Ansichten mehr erstellt werden mussten."
+        "Entwicklung der Funktion 'Adaptive View', wodurch die Entwicklungszeit für neue Features reduziert wurde, da keine neuen Ansichten mehr für jedes Feature erstellt werden mussten."
       ],
-      "description": "Einsatz beim Kunden Banco Galicia (https://www.bancogalicia.com.ar/), Arbeit am E-Banking-Portal für Unternehmen."
+      "description": "Eingesetzt beim Kunden Banco Galicia (https://www.bancogalicia.com.ar/), Arbeit am E-Banking-Portal für Unternehmen."
     },
     {
       "company": "TPS S.A.",
-      "position": "Software Developer (Semi-Senior)",
+      "position": "Softwareentwickler (Semi-Senior)",
       "startDate": "2019-10",
       "endDate": "2021-04",
-      "description": "Beginn als Junior Mobile Developer, später Full Stack und Ansprechpartner für Kunden.",
+      "description": "Begann als Junior Mobile Developer und entwickelte sich zu einer Senior Full Stack Position und Kundenansprechpartner.",
       "achievements": [
         "Entwicklung einer plattformübergreifenden Anwendung zur Nachverfolgung von Treuepunkten ('Interpuntos') für den Kunden Intermex (intermexonline.com).",
-        "Erfolgreiche Integration mit dem Backend des Kunden auf Basis von SQL Server Stored Procedures und deren Authentifizierungsdienst auf Basis von IdentityServer 4.",
+        "Erfolgreiche Integration mit dem Backend des Kunden auf Basis von SQL Server Stored Procedures und deren Auth-Service auf Basis von IdentityServer 4.",
         "Migration des Frontends des internen Tools 'CheckDirect' (für denselben Kunden) von einer Delphi-basierten Windows-Anwendung zu einer Angular-basierten Webanwendung."
       ]
     },
     {
       "company": "Quanta Iluminación",
-      "position": "Embedded Systems Designer",
+      "position": "Entwickler für eingebettete Systeme",
       "startDate": "2013-01",
       "endDate": "2016-04",
-      "description": "Entwicklung von Leistungselektronik und Embedded Software für LED-Beleuchtungssysteme.",
+      "description": "Leistungselektronik-Design und Entwicklung von Embedded Software für LED-Beleuchtungssysteme.",
       "achievements": [
         "Entwurf und Implementierung verschiedener digitaler und analoger RGB-Lichtsteuerungen für LED-Leuchten.",
-        "Entwicklung eines robusten Kommunikationsprotokolls zur Synchronisierung und Adressierung einzelner Lampen, unterstützt drahtlose, kabelgebundene und hybride Netzwerke.",
+        "Entwicklung eines robusten Kommunikationsprotokolls zur Synchronisierung und Adressierung einzelner Lampen, Unterstützung von drahtlosen, kabelgebundenen und hybriden Netzwerken.",
         "Implementierung von DMX512-kompatiblen Lichtsteuerungen.",
         "Entwicklung von GUIs zur Programmierung und Live-Steuerung von RGB-Leuchten."
       ]
@@ -106,13 +107,12 @@
     ".Net MAUI",
     "Agile/Scrum",
     "ArgoCD",
-    "C",
     "C#",
     "CI/CD",
     "Docker",
     "Git",
     "Github Actions",
-    "Google Cloud Platform",
+    "GCP",
     "JavaScript",
     "Jira",
     "Kubernetes",
@@ -127,9 +127,7 @@
     "SQLite",
     "Systemarchitektur",
     "TypeScript",
-    "Unit Testing",
-    "Xamarin",
-    "Zoom SDK"
+    "Unit Testing"
   ],
   "languageSkills": [
     {
@@ -142,7 +140,7 @@
     },
     {
       "language": "Deutsch",
-      "level": "A2 (laufend)"
+      "level": "A2 in Ausbildung"
     }
   ]
 }

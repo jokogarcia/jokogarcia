@@ -1,0 +1,161 @@
+{
+  "name": "Joaquín García",
+  "title": "Senior Software Developer",
+  "workExperienceTitle": "WORK EXPERIENCE",
+  "educationTitle": "EDUCATION",
+  "summaryTitle": "PROFESSIONAL SUMMARY",
+  "skillsTitle": "TECHNICAL SKILLS",
+  "languageSkillsTitle": "LANGUAGE SKILLS",
+  "summary": "Highly adaptable and results-driven Senior Software Developer with over 8 years of experience in fast-paced, agile environments. Proven ability to deliver efficient, scalable, and user-friendly applications through expertise in full-stack development, DevOps, and a commitment to continuous improvement. Specializing in Node.JS with Typescript and .Net with C#.",
+  "profilePictureUrl": "https://github.com/jokogarcia/jokogarcia/blob/main/assets/Perfil.png?raw=true",
+  "contactInfo": {
+    "email": "joaquin.garciaml@hotmail.com",
+    "phone": "+491573906833",
+    "address": "Merkststraße 12C. 82405 Wessobrunn, Germany",
+    "linkedin": "www.linkedin.com/in/joaquin-garcia-ml",
+    "github": "www.github.com/jokogarcia",
+    "dateOfBirth": "1983-07-29",
+    "website": ""
+  },
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional (UTN)",
+      "degree": "Electronic Engineer (<i>Ingeniero en Electrónica</i>)",
+      "startDate": "2002-03",
+      "endDate": "2015-12",
+      "description": "ANABIM Equivalence: 'Studienrichtung: Ingenieurwessen (Elektronik). Abschlussklasse: A5'",
+      "location": "La Rioja, Argentina"
+    },
+    {
+      "institution": "Colegio Provincial Número 1 'Joaquín V. González'",
+      "degree": "High School Diploma with a Specialization in Physics and Mathematics",
+      "startDate": "2000-03",
+      "endDate": "2001-12",
+      "description": "Graduated with honors. Minor in Physics and Mathematics.",
+      "location": "La Rioja, Argentina"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Edugo.AI",
+      "position": "Senior Backend Engineer",
+      "startDate": "2024-01",
+      "location": "Wessobrunn, Germany (remote)",
+      "endDate": "2025-07",
+      "achievements": [
+        "Improved stability by migrating from a monolith to a microservices-based architecture orchestrated with Kubernetes, enabling faster iteration and deployment cycles.",
+        "Enhanced data security by implementing recommendations from an independent security audit.",
+        "Increased developer productivity by implementing CI/CD pipelines, significantly accelerating delivery of new features.",
+        "Improved availability and stability of in-platform video calls.",
+        "Developed an in-house, multi-user feature for live-annotating PDF documents during video calls, demonstrating rapid feature development.",
+        "Increased code quality and reliability by advocating for and implementing unit testing, fostering a culture of quality assurance.",
+        "Led efforts to establish and document best practices and code style guides for internal use, contributing to team efficiency and maintainability.",
+        "Conducted stress and load tests on the backend to ensure readiness for increased user demand, proactively identifying and addressing bottlenecks."
+      ],
+      "description": "Sole Backend Specialist in a dynamic, fast-paced team of 5, focusing on the development of AI-driven educational platforms. Consistently delivered high-quality solutions under challenging deadlines."
+    },
+    {
+      "company": "Anuvu",
+      "position": "NOC Technician",
+      "startDate": "2021-10*",
+      "endDate": "2023-12",
+      "location":"Raisting, Germany",
+      "achievements": [
+        "Provided first and second level support for international maritime customers, ensuring high-quality service and rapid issue resolution in a critical, real-time environment.",
+        "Maintained a high level of customer satisfaction by effectively communicating with customers and third-party vendors.",
+        "Provided support for Field Engineers, ensuring smooth operations and quick resolution of technical issues, often under time pressure.",
+        "Ensured high level of documentation and knowledge sharing, on a diverse technical stack, contributing to team efficiency and knowledge transfer in a fast-evolving domain."
+      ],
+      "description": "<i>*Note: <b>Also from 2016 to 2018 in Argentina.</b></i> Technical support of maritime satellite communications systems. Real time troubleshooting of complex technical solutions in a fast paced environment."
+    },
+    {
+      "company": "Accenture",
+      "position": ".NET Developer",
+      "startDate": "2021-04",
+      "endDate": "2021-09",
+      "location":"La Rioja, Argentina (remote)",
+      "achievements": [
+        "Developed the feature 'Adaptive View' reducing development time for new features by eliminating the need to create new views for each feature."
+      ],
+      "description": "Assigned to customer Banco Galicia (https://www.bancogalicia.com.ar/), working on the e-bank portal for businesses."
+    },
+    {
+      "company": "TPS S.A.",
+      "position": "Semi-Senior Software Developer",
+      "startDate": "2019-10",
+      "endDate": "2021-04",
+      "location":"La Rioja, Argentina (remote)",
+      "description": "Started as a Junior Mobile Developer and transitioned to a more senior, Full Stack position and customer Point of Contact.",
+      "achievements": [
+        "Created Cross-Platform Mobile application for loyalty points tracking \"Interpuntos\" for customer Intermex (intermexonline.com).",
+        "Succesfully integrated with the client's backend based on SQL Server Stored Procedures and with their Auth Service based on IdentityServer 4.",
+        "Migrated the Frontend of the internal tool 'CheckDirect' (for the same custommer) from a Delphi-based Windows Application to an Angular-based Web Application."
+      ]
+    },
+    {
+      "company": "Quanta Iluminación",
+      "position": "Embedded Systems Designer",
+      "startDate": "2013-01",
+      "endDate": "2016-04",
+      "location":"La Rioja, Argentina",
+      "description": "Power electronics design and Embedded Software development for LED lighting systems.",
+      "achievements": [
+        "Designed and implemented a variety of digital and analog RGB light controllers for LED lights.",
+        "Created a robust communication protocol for synchronizing and addressing individual Lamps, supporting Wireless, Wired and Hybrid networks.",
+        "Implemented DMX512-compatible light controllers.",
+        "Developed GUIs for programming and live control of RGB lights."
+      ]
+    }
+  ],
+  "skills": [
+    ".Net",
+    ".Net MAUI",
+    "Agile/Scrum",
+    "ArgoCD",
+    "C",
+    "C#",
+    "CI/CD",
+    "Docker",
+    "Git",
+    "Github Actions",
+    "Go",
+    "Google Cloud Platform",
+    "JavaScript",
+    "Kubernetes",
+    "MongoDB",
+    "Node.JS",
+    "Performance Optimization",
+    "PostgreSQL",
+    "Python",
+    "React",
+    "RESTful APIs",
+    "SQL Server",
+    "SQLite",
+    "TypeScript",
+    "Unit Testing",
+    "Xamarin",
+    "Zoom SDK",
+    "Rapid Prototyping",
+    "Problem Solving"
+  ],
+  "languageSkills": [
+    {
+      "language": "Spanish",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "C2"
+    },
+    {
+      "language": "German",
+      "level": "Coursing A2"
+    }
+  ],
+  "professionalAttributes": [
+    "Adaptability & Agility: Thrives in fast-paced, evolving environments, quickly adapting to new technologies and requirements.",
+    "Proactive Problem Solver: Identifies and addresses challenges independently, ensuring minimal disruption and continuous improvement.",
+    "Team Collaboration & Leadership: Actively contributes to team success, mentors colleagues, and takes initiative beyond defined roles to achieve shared goals.",
+    "High Availability & Commitment: Demonstrated willingness to go the extra mile to support team objectives and critical operations."
+  ]
+}

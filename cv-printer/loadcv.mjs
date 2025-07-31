@@ -1,3 +1,5 @@
+const path = "./cv-v4.de.json"; // Default path to the CV JSON file
+
 /**
  * @typedef {Object} CV
  * @property {string} name
@@ -61,7 +63,7 @@ function getPaperSizePixels() {
  * @param {string} [url='cv-1.json'] - The URL of the CV JSON file.
  * @returns {Promise<CV>} A promise that resolves to the CV data.
  */
-async function loadcv(url='cv-1.de.json') {
+async function loadcv(url=path) {
     const cvresponse = await fetch(url);
     if (!cvresponse.ok) {
         throw new Error('Network response was not ok: ' + cvresponse.statusText);
@@ -127,9 +129,9 @@ function render(cvdata){
         <h2 class="job-title">${cvdata.title}</h2>
         <div class="contact-info">
             <p>Email: <a href='mailto:${cvdata.contactInfo.email}'>${cvdata.contactInfo.email}</a></p>
-            <p>Phone: <a href='tel:${cvdata.contactInfo.phone}'>${phoneNumberFormatter(cvdata.contactInfo.phone)}</a></p>
-            <p>Address: <span style='color:black'>${cvdata.contactInfo.address}</span></p>
-            <p>Date of Birth: <span style='color:black'>${cvdata.contactInfo.dateOfBirth}</span></p>
+            <p>Handy: <a href='tel:${cvdata.contactInfo.phone}'>${phoneNumberFormatter(cvdata.contactInfo.phone)}</a></p>
+            <p>Addresse: <span style='color:black'>${cvdata.contactInfo.address}</span></p>
+
             <p>LinkedIn: <a href="${cvdata.contactInfo.linkedin}">${cvdata.contactInfo.linkedin}</a></p>
             <p>GitHub: <a href="${cvdata.contactInfo.github}">${cvdata.contactInfo.github}</a></p>
             ${cvdata.contactInfo.website && `<p>Website: <a href="${cvdata.contactInfo.website}">${cvdata.contactInfo.website}</a></p>`}
@@ -186,6 +188,7 @@ function render(cvdata){
                     <h3 class ="we-jobtitle">${exp.position}</h3>
                     <span class ="we-company">${exp.company}</span>
                     <span class="we-dates">(${exp.startDate} - ${exp.endDate})</span>
+                    <h5 class="we-location">📍 ${exp.location}</h5>
                     <p>${exp.description}
                     ${exp.achievements ? `<ul>${exp.achievements.map(ach => `<li>${ach}</li>`).join('\n')}</ul>` : ''}
                     </p>
@@ -203,7 +206,7 @@ function render(cvdata){
     fillerDiv.className = 'filler';
     leftColumn.appendChild(fillerDiv);
     const fillerTop = fillerDiv.getBoundingClientRect().top;
-    const fillerHeight = paperHeight - (fillerTop % paperHeight) - 50; // 50px for the bottom margin
+    const fillerHeight = paperHeight - (fillerTop % paperHeight) - 40; // 50px for the bottom margin
     fillerDiv.style.height = fillerHeight + 'px';
 
 

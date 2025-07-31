@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    line-height: 1.4;
+    line-height: 1.2;
     margin: 0;
     padding: 20px;
     background-color: #eee;
@@ -190,9 +190,9 @@ ul.skills-list{
 }
 ul.skills-list li {
     margin-bottom: 5px;
-    font-size: 0.85em;
+    font-size: 0.75em;
     float:left;
-    margin-right: 10px;
+    margin-right: 5px;
     padding: 0px 5px;
     background-color: #0056b3; /* Azul muy claro */
     color: #fff;
@@ -212,6 +212,10 @@ section{
 }
 .we-dates{
     float:right;
+}
+.we-location{
+    margin:0.5em 0px;
+    font-weight: normal;
 }
 div.work-experience {
     padding-bottom: 10px;
