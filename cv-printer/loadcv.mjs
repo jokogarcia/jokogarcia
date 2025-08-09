@@ -1,4 +1,3 @@
-const path = "./cv-2.json"; // Default path to the CV JSON file
 
 /**
  * @typedef {Object} CV
@@ -63,7 +62,7 @@ function getPaperSizePixels() {
  * @param {string} [url='cv-1.json'] - The URL of the CV JSON file.
  * @returns {Promise<CV>} A promise that resolves to the CV data.
  */
-async function loadcv(url=path) {
+export async function loadcv(url) {
     const cvresponse = await fetch(url);
     if (!cvresponse.ok) {
         throw new Error('Network response was not ok: ' + cvresponse.statusText);
@@ -71,12 +70,11 @@ async function loadcv(url=path) {
     const cvdata = await cvresponse.json();
     return cvdata;
 }
-const printmode = true;
 /**
  * Renders the CV data into the HTML document.
  * @param {CV} cvdata 
  */
-function render(cvdata){
+export function render(cvdata, printmode = true){
     const body = document.querySelector('body');
     body.innerHTML = '';
     const container = document.createElement('div');
@@ -128,13 +126,12 @@ function render(cvdata){
         <h1>${cvdata.name}</h1>
         <h2 class="job-title">${cvdata.title}</h2>
         <div class="contact-info">
-            <p>Email: <a href='mailto:${cvdata.contactInfo.email}'>${cvdata.contactInfo.email}</a></p>
-            <p>Handy: <a href='tel:${cvdata.contactInfo.phone}'>${phoneNumberFormatter(cvdata.contactInfo.phone)}</a></p>
-            <p>Addresse: <span style='color:black'>${cvdata.contactInfo.address}</span></p>
-
-            <p>LinkedIn: <a href="https://${cvdata.contactInfo.linkedin}">${cvdata.contactInfo.linkedin}</a></p>
-            <p>GitHub: <a href="https://${cvdata.contactInfo.github}">${cvdata.contactInfo.github}</a></p>
-            ${cvdata.contactInfo.website && `<p>Website: <a href="https://${cvdata.contactInfo.website}">${cvdata.contactInfo.website}</a></p>`}
+            ${cvdata.contactInfo.email ? `<p>Email: <a href='mailto:${cvdata.contactInfo.email}'>${cvdata.contactInfo.email}</a></p>` : ''}
+            ${cvdata.contactInfo.phone ? `<p>Cellphone: <a href='tel:${cvdata.contactInfo.phone}'>${phoneNumberFormatter(cvdata.contactInfo.phone)}</a></p>` : ''}
+            ${cvdata.contactInfo.address ? `<p>Address: <span style='color:black'>${cvdata.contactInfo.address}</span></p>` : ''}
+            ${cvdata.contactInfo.linkedin ? `<p>LinkedIn: <a href="https://${cvdata.contactInfo.linkedin}">${cvdata.contactInfo.linkedin}</a></p>` : ''}
+            ${cvdata.contactInfo.github ? `<p>GitHub: <a href="https://${cvdata.contactInfo.github}">${cvdata.contactInfo.github}</a></p>` : ''}
+            ${cvdata.contactInfo.website ? `<p>Website: <a href="https://${cvdata.contactInfo.website}">${cvdata.contactInfo.website}</a></p>` : ''}
         </div>
     `;
     const paperHeight = getPaperSizePixels().height;
@@ -211,13 +208,7 @@ function render(cvdata){
 
 
 }
-loadcv().then(cvdata => {
-    render(cvdata);
-}
-).catch(error => {
-    console.error('Error loading CV data:', error);
-    document.body.innerHTML = '<h1>Error loading CV data</h1>';
-});
+
 
 /**
  * Checks if an element overflows a page based on its height.
@@ -274,3 +265,5 @@ function phoneNumberFormatter(phoneNumber) {
         return '';
     }
 }
+
+
