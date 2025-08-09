@@ -1,4 +1,4 @@
-const path = "./cv-2.json"; // Default path to the CV JSON file
+const path = "./cv-v4.de.json"; // Default path to the CV JSON file
 
 /**
  * @typedef {Object} CV

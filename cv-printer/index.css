@@ -108,8 +108,7 @@ body.printable{
     font-size: 1.3em;
     color: #0056b3; /* Azul para los títulos de sección */
     border-bottom: 2px solid #add8e6; /* Subrayado azul claro */
-    padding-bottom: 5px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     text-transform: uppercase;
 }
 
@@ -125,7 +124,7 @@ body.printable{
 
 .section p {
     font-size: 0.85em;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 }
 a {
     color:black;
@@ -162,8 +161,8 @@ ul.skills-list{
     font-size: 0.85em;
 }
 .section h4{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
 .skills-grid {
     display: flex;

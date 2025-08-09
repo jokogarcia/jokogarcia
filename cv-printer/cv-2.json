@@ -41,14 +41,14 @@
       "position": "Senior Backend Engineer",
       "startDate": "2024-01",
       "location": "Wessobrunn, Germany (remote)",
-      "endDate": "Present",
+      "endDate": "2025-07",
       "achievements": [
         "Improved stability by migrating from a monolith to a microservices-based architecture orchestrated with Kubernetes.",
         "Enhanced data security by implementing recommendations from an independent security audit.",
         "Increased developer productivity by implementing CI/CD pipelines.",
         "Improved availability and stability of in-platform video calls.",
         "Developed an in-house, multi-user feature for live-annotating PDF documents during video calls.",
-        "Increased code quality and reliability by advocating for and implementing unit testing.",
+        "Increased code quality and reliability by advocating for and implementing unit testing with Jest and Playwright.",
         "Led efforts to establish and document best practices and code style guides for internal use.",
         "Conducted stress and load tests on the backend to ensure readiness for increased user demand, identifying and addressing bottlenecks.",
         "Served as Point of Contact to Key Customers."
@@ -102,8 +102,7 @@
       "description": "Power electronics design and Embedded Software development for LED lighting systems.",
       "achievements": [
         "Designed and implemented a variety of digital and analog RGB light controllers for LED lights.",
-        "Created a robust communication protocol for synchronizing and addressing individual Lamps, supporting Wireless, Wired and Hybrid networks.",
-        "Implemented DMX512-compatible light controllers.",
+        "Created a robust communication protocol based on DMX512 for synchronizing and addressing individual Lamps, supporting Wireless, Wired and Hybrid networks.",
         "Developed GUIs for programming and live control of RGB lights."
       ]
     }
@@ -119,10 +118,10 @@
     "Docker",
     "Git",
     "Github Actions",
-    "Go",
+    "Jest",
     "Google Cloud Platform",
     "JavaScript",
-    "Jira",
+    "Playwright",
     "Kubernetes",
     "MongoDB",
     "Node.js",
